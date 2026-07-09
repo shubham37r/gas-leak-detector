@@ -50,6 +50,3 @@ buzzer alert when levels exceed a safe threshold.
 - Send alerts over WiFi/GSM (e.g. via ESP8266 or SIM800L) for remote notification
 - Log readings to an app/dashboard for historical tracking
 - Add multi-level thresholds (warning vs. critical)
-
-## License
-MIT
